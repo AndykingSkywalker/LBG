@@ -1,1 +1,4 @@
 /Logs/
+
+.*		#Every file
+!.gitignore	#Keeps gitignore
